@@ -1,6 +1,6 @@
 {
   "name": "react-ce-landing",
-  "homepge": "https://www.charleseliebedard.com",
+  "homepage": "https://www.charleseliebedard.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
